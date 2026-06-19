@@ -13,6 +13,12 @@ Me especializo en transformar datos complejos en información accionable para op
 ### 🚀 Proyectos Destacados
 * **Análisis de Indicadores Educativos (NEA):** Investigación sobre tendencias de educación en el Noreste Argentino.
 * **Diagnóstico Académico:** Procesamiento de resultados para instituciones de nivel secundario.
+* **Proyecto educativo sobre industria vitivinícola:** Análisis exploratorio y estadístico de factores asociados a la calidad de vinos.
+* **IA en Educación:** Análisis sobre la adopción e impacto de herramientas de inteligencia artificial en el rendimiento académico.
+
+---
+
+Interesado en aplicar análisis de datos e inteligencia artificial para resolver problemas reales en educación, negocios y otros sectores mediante decisiones basadas en evidencia.
 
 ### 📫 Contacto
 * [LinkedIn] https://www.linkedin.com/in/juan-francisco-pereyra-b24417395/
