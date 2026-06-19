@@ -7,7 +7,7 @@ Transformo datos complejos en información accionable para optimizar la toma de 
 
 ### 🛠️ Tecnologías y Herramientas
 * **Lenguajes:** Python (Pandas, Numpy), SQL.
-* **Visualización:** Matplotlib, Seaborn, manejo avanzado de Google Sheets/Excel.
+* **Visualización:** Matplotlib, Seaborn, Microsoft Excel.
 * **Áreas de interés:** Análisis de indicadores, aprendizaje automático, comunicación de insights.
 
 ### 🚀 Proyectos Destacados
@@ -15,6 +15,11 @@ Transformo datos complejos en información accionable para optimizar la toma de 
 * **Diagnóstico Académico:** Procesamiento de resultados para instituciones de nivel secundario.
 * **Proyecto educativo sobre industria vitivinícola:** Análisis exploratorio y estadístico de factores asociados a la calidad de vinos.
 * **IA en Educación:** Análisis sobre la adopción e impacto de herramientas de inteligencia artificial en el rendimiento académico.
+
+### 🎯 Actualmente
+* Fortaleciendo mis conocimientos en SQL y Business Intelligence.
+* Construyendo proyectos para mi portfolio en GitHub.
+* Buscando oportunidades para desarrollar experiencia profesional en análisis de datos y ciencia de datos.
 
 ---
 
