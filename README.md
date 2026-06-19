@@ -1,7 +1,7 @@
 # ¡Hola! Soy Juan Francisco Pereyra 👋
 
-### 📊 Analista de Datos orientado a Business Insights
-Me especializo en transformar datos complejos en información accionable para optimizar la toma de decisiones. Estudiante avanzado de Ciencia de Datos en la Universidad Siglo 21.
+### 📊 🎓 Estudiante de Ciencia de Datos | Análisis de Datos | Machine Learning
+Transformo datos complejos en información accionable para optimizar la toma de decisiones. Estudiante avanzado de Ciencia de Datos en la Universidad Siglo 21. Desarrollo proyectos de análisis de datos y aprendizaje automático aplicados a problemas reales.
 
 ---
 
