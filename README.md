@@ -1,31 +1,43 @@
-# ¡Hola! Soy Juan Francisco Pereyra 👋
+# Hi! I'm Juan Francisco Pereyra 👋
 
-### 📊 🎓 Estudiante de Ciencia de Datos | Análisis de Datos | Machine Learning
-Transformo datos complejos en información accionable para optimizar la toma de decisiones. Estudiante avanzado de Ciencia de Datos en la Universidad Siglo 21. Desarrollo proyectos de análisis de datos y aprendizaje automático aplicados a problemas reales.
+### 📊 🎓 Data Science Student | Data Analysis | Machine Learning
 
----
-
-### 🛠️ Tecnologías y Herramientas
-* **Lenguajes:** Python (Pandas, Numpy), SQL.
-* **Visualización:** Matplotlib, Seaborn, Microsoft Excel.
-* **Áreas de interés:** Análisis de indicadores, aprendizaje automático, comunicación de insights.
-
-### 🚀 Proyectos Destacados
-* **Análisis de Indicadores Educativos (NEA):** Investigación sobre tendencias de educación en el Noreste Argentino.
-* **Diagnóstico Académico:** Procesamiento de resultados para instituciones de nivel secundario.
-* **Proyecto educativo sobre industria vitivinícola:** Análisis exploratorio y estadístico de factores asociados a la calidad de vinos.
-* **IA en Educación:** Análisis sobre la adopción e impacto de herramientas de inteligencia artificial en el rendimiento académico.
-
-### 🎯 Actualmente
-* Fortaleciendo mis conocimientos en SQL y Business Intelligence.
-* Construyendo proyectos para mi portfolio en GitHub.
-* Buscando oportunidades para desarrollar experiencia profesional en análisis de datos y ciencia de datos.
+I transform complex data into actionable insights that support better decision-making. I am a Data Science student at Universidad Siglo 21, developing data analysis and machine learning projects focused on solving real-world problems.
 
 ---
 
-Interesado en aplicar análisis de datos e inteligencia artificial para resolver problemas reales en educación, negocios y otros sectores mediante decisiones basadas en evidencia.
+## 🛠️ Technologies & Tools
 
-### 📫 Contacto
+* **Programming Languages:** Python (Pandas, NumPy), SQL
+* **Data Visualization:** Matplotlib, Seaborn, Microsoft Excel
+* **Areas of Interest:** Data Analysis, Machine Learning, Business Insights, Data Storytelling
+
+---
+
+## 🚀 Featured Projects
+
+* **Educational Indicators Analysis (NEA):** Analysis of educational trends in Northeastern Argentina using survey data from school administrators.
+* **Educational Assessment Analysis:** Analysis of English exam results to identify strengths, weaknesses, and opportunities for improving the learning process.
+* **Wine Quality Analysis:** Exploratory and statistical analysis of factors associated with wine quality.
+* **AI in Education:** Analysis of the relationship between Generative AI usage and academic performance using statistical inference, hierarchical regression, and Random Forest.
+
+---
+
+## 🎯 Currently
+
+* Strengthening my SQL and Business Intelligence skills.
+* Building data analytics and machine learning projects for my GitHub portfolio.
+* Seeking opportunities to start my professional career in Data Analytics or Data Science.
+
+---
+
+I am passionate about applying data analysis and artificial intelligence to solve real-world problems in education, business, and other industries through evidence-based decision-making.
+
+## 📫 Contact
+
+* **LinkedIn:** https://www.linkedin.com/in/juan-francisco-pereyra-b24417395/
+* **Email:** [juanfran.pereyra@gmail.com](mailto:juanfran.pereyra@gmail.com)
+
 * [LinkedIn] https://www.linkedin.com/in/juan-francisco-pereyra-b24417395/
 * [Email] juanfran.pereyra@gmail.com
 
