@@ -36,10 +36,7 @@ I am passionate about applying data analysis and artificial intelligence to solv
 ## 📫 Contact
 
 * **LinkedIn:** https://www.linkedin.com/in/juan-francisco-pereyra-b24417395/
-* **Email:** [juanfran.pereyra@gmail.com](mailto:juanfran.pereyra@gmail.com)
-
-* [LinkedIn] https://www.linkedin.com/in/juan-francisco-pereyra-b24417395/
-* [Email] juanfran.pereyra@gmail.com
+* **Email:** [juanfran.pereyra@gmail.com](mailto:juanfran.pereyra@gmail.com
 
 <!--
 **juanfran04/juanfran04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
